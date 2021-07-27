@@ -1,12 +1,12 @@
 Package: spExpM
 Type: Package
-Title: What the package does (short line)
+Title: Large sparse matrix exponentiation for use in HMMs
 Version: 1.0
 Date: 2021-07-20
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one
-      line)
-License: What license is it under?
+Author: Devin S. Johnson
+Maintainer: Devin S. Johnson <devin.johnson@noaa.gov>
+Description: Calculates the product of a row vector time an exponentiated 
+  matrix. This is for use in continuous-time HMMs
+License: CC0
 Imports: Rcpp (>= 1.0.7)
 LinkingTo: Rcpp, RcppArmadillo, BH
