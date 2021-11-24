@@ -9,8 +9,8 @@ rate matrix for a comtinuous-time, discrete-state (semi-) Makov chain.
 ### Disclaimer
 
 *This software package is developed and maintained by scientists at the
-NOAA Fisheries Alaska Fisheries Science Center and should be considered
-a fundamental research communication. The recommendations and
+NOAA Fisheries Pacific Islands Fisheries Science Center and should be
+considered a fundamental research communication. The recommendations and
 conclusions presented here are those of the authors and this software
 should not be construed as official communication by NMFS, NOAA, or the
 U.S. Dept. of Commerce. In addition, reference to trade names does not
